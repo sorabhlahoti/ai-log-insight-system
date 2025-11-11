@@ -1,0 +1,12 @@
+[
+    {"metric": 1.0, "error_rate": 0.01, "latency": 100},
+    {"metric": 1.1, "error_rate": 0.01, "latency": 95},
+    {"metric": 1.2, "error_rate": 0.01, "latency": 105},
+    {"metric": 1.0, "error_rate": 0.02, "latency": 110},
+    {"metric": 1.05, "error_rate": 0.01, "latency": 98},
+    {"metric": 0.95, "error_rate": 0.02, "latency": 104},
+    {"metric": 1.1, "error_rate": 0.02, "latency": 102},
+    {"metric": 1.00, "error_rate": 0.01, "latency": 99},
+    {"metric": 1.02, "error_rate": 0.01, "latency": 101},
+    {"metric": 1.07, "error_rate": 0.01, "latency": 96}
+]
